@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/500px-Kubernetes_logo_without_workmark.svg.png" height="40" alt="k8s logo"  />
   <img width="12" />
-  <img src="https://imgur.com/a/cEiCLQV" height="40" alt="enfusion logo"  />
+  <img src="https://i.imgur.com/u6hdEni.png" height="40" alt="enfusion logo"  />
 </div>
 
 ###
